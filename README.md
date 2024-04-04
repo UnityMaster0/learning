@@ -1,6 +1,6 @@
 # Learning Projects
 
-** This repository offers examples of different potential beginner projects you could undertake in Java. These projects can hopefully inspire your own projects **
+**This repository offers examples of different potential beginner projects you could undertake in Java. These projects can hopefully inspire your own projects**
 
 Steps to Make a Good Project:
 1. Define an objective
